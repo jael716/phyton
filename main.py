@@ -1,6 +1,6 @@
 sandwich_de_potito = 10000
 cervezas = 5000
-papapleto = 2000
+choripanes = 2000
 arepas = 13000
 leche_de_palta = 17000
 catidad_producto1 = int(input("¿cuantos Sandwich de Potito uno quiere? "))
