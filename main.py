@@ -1,3 +1,5 @@
+"""Modulo 3 AE1 - Proyecto Grupal 1"""
+
 sandwich_de_potito = 10000
 cervezas = 5000
 papapleto = 2000
